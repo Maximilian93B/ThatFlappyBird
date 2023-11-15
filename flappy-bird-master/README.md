@@ -1,9 +1,27 @@
-# [Flappy Bird](https://youtu.be/jj5ADM2uywg)
-- Coding Tutorial: https://youtu.be/jj5ADM2uywg
-- Demo: https://imkennyyip.github.io/flappy-bird/
+##Flappy Bird Game
 
-In this tutorial, you will learn to create the flappy bird game with html, css, and javascript. Specifically, you will learn how to code the game using html5 canvas. 
+Overview
 
-Throughout the tutorial, you will learn how to create the game loop, add images onto the canvas, add click handlers to make the flappy bird jump, randomly generate pipes and move them across the screen, detect collisions between the flappy bird and each pipe, and add a running score. 
+This project is a simple version of the classic Flappy Bird game using HTML, CSS, and JavaScript. It features a bird that the player can control to navigate through pipes, and the goal is to avoid collisions and achieve the highest score possible.
 
-![flappy-bird-sample](https://user-images.githubusercontent.com/78777681/219966636-72584cb3-d471-41c0-872f-62c230dccc47.png)
+Project Structure
+
+HTML: The main HTML file that serves as the entry point for the game. It includes the canvas for rendering the game and links to the necessary styles and scripts.
+
+CSS: The CSS file that contains styling for the game elements, such as the board and bird.
+
+THE JS: The JavaScript file responsible for game logic, including bird movement, pipe generation, collision detection, and score tracking.
+
+How to Play
+
+Controls: Use the Spacebar to make the bird jump, Try and avoid the pipes and aim for the highest score always. 
+
+Customization
+Feel free to customize the game by modifying the images, adjusting physics parameters in the JavaScript file, or changing the styling in the CSS file.
+
+Credits
+Flappy Bird Image: [Your Image Source]
+Pipe Images: [Your Image Source]
+Special Thanks to Kenny Yip Coding for Assistance
+License
+This project is licensed under the MIT License.
